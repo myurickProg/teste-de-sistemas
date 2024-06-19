@@ -1,5 +1,5 @@
 ## ALUNOS:
-Erick Silva de Souza,
-Lucas Henrique Chaves da Silva,
-Caio Antônio Andrade da Silva,
+Erick Silva de Souza,<br>
+Lucas Henrique Chaves da Silva,<br>
+Caio Antônio Andrade da Silva,<br>
 Emanuel Lima Tomaz de Aquino.
